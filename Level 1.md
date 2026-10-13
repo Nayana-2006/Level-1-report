@@ -1,6 +1,4 @@
 # Level 1 Report
-# Electronic Design
-
 ## TASK 1: Engineer’s Swiss Army Knife
 Objective:
 
@@ -70,10 +68,6 @@ Objective:
 
 To Learn basics of PCB Designing by applying for the Altium student license and completing the Altium Student Lab PCB coursework.
 
-Methodology:
-
-I applied for and recieved the Altium student license and completed the Altium Student Lab PCB coursework. In this process I learnt the basics of PCB designing, including Schematics and Libraries, PCB Layout, Routing and Basic Signal Integrity, PCB Manufacturing and Fundamentals of Purchasing and Supply Chain. After clearing the final quiz, I recieved my certificate.
-
 ## TASK 8: Convolution Countdown
 
 Objective:
@@ -87,7 +81,22 @@ I learnt the basics of DSP including an introduction to signals, systems and mat
 Outcome:
 
 I understood the basics of DSP theoretically, and also learnt to perform convolution operation in MATLAB.
+## TASK 9: Whose Array Is It Anyway?
+Objective:
 
+To understand and implement combinational logic design using PAL and PLA structures.
+
+Methodology:
+
+I read upon the basics of PROM, PLA and PAL and understood the key differences. I then designed a logic circuit that outputs '1' if the number of 1’s in a 3-bit input (A, B, C) is odd. First I designed this using a PAL and then I designed the same thing using a PLA. For both I drew the fuse tables of AND Array and OR Array and I've shown the fuse and blown connections.
+![](<WhatsApp Image 2026-10-13 at 8.10.02 PM.jpeg>)
+![](<WhatsApp Image 2026-10-13 at 9.04.19 PM.jpeg>)
+
+I then used the knowledge from the above procedure to solve a real world problem statement:
+Design a controller that manages three lights in a smart home system based on these conditions - Motion sensor (M), Light level sensor (L), Time of day (T), Manual override (O).
+![](<WhatsApp Image 2026-10-13 at 8.10.48 PM.jpeg>)
+Outcome:
+Understood and implemented combinational logic design using PAL and PLA structures.
 ## TASK 10: Your Logic, Preloaded
 
 Objective:
@@ -110,7 +119,6 @@ A lookup table (LUT) is a memory-based method used to store precomputed output v
 Outcome:
 
 I understood the concept of Look-Up Tables (LUTs) and learnt to implement LUTs according to our requirements.
-
 
 
 
